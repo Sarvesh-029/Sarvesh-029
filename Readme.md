@@ -23,9 +23,7 @@
 
 ## 📌 Featured Projects
 
-- **Project 1** – Short description
-- **Project 2** – Short description
-- **Project 3** – Short description
+
 
 ## 📊 GitHub Stats
 
@@ -36,6 +34,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-029&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sarvesh-029/Sarvesh-029/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+</div>
+
+---
 
 ## 🤝 Connect With Me
 
